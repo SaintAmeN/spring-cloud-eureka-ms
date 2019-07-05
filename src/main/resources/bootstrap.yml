@@ -3,4 +3,4 @@ spring:
     name: aps-services-eureka
   cloud:
     config:
-      uri: http://10.1.1.22:8003
+      uri: http://10.1.1.22:7002
