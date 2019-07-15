@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.aps.services</groupId>
-    <artifactId>eureka-ms</artifactId>
+    <artifactId>apss-eureka-ms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-ms</name>
+    <name>apss-eureka-ms</name>
     <description>Eureka Discovery server for APS services ms project</description>
 
     <properties>

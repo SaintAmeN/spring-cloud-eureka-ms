@@ -1,6 +1,6 @@
 spring:
   application:
-    name: aps-services-eureka
+    name: eureka-ms
   cloud:
     config:
-      uri: http://10.1.1.22:7002
+      uri: http://aps-platform.com:18002
