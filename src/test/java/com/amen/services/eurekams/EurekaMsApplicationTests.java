@@ -1,4 +1,4 @@
-package com.aps.services.eurekams;
+package com.amen.services.eurekams;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

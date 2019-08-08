@@ -8,11 +8,10 @@
         <version>2.1.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.aps.services</groupId>
-    <artifactId>apss-eureka-ms</artifactId>
+    <groupId>com.amen.services</groupId>
+    <artifactId>eureka-ms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>apss-eureka-ms</name>
-    <description>Eureka Discovery server for APS services ms project</description>
+    <name>eureka-ms</name>
 
     <properties>
         <java.version>1.8</java.version>

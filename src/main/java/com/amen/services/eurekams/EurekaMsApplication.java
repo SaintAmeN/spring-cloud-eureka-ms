@@ -1,4 +1,4 @@
-package com.aps.services.eurekams;
+package com.amen.services.eurekams;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
